@@ -9,15 +9,15 @@
   </head>
   <body>
   <div class="top-nav">
-    <div class="grid-x">
-      <div class="cell large-6 medium-6">
+    <div class="row">
+      <div class="cell large-6">
         <ul class="top-list">
           <li><i class="fa fa-map-marker"></i>Dhaka, Da, DIU</li>
           <li><i class="fa fa-phone"></i>016 789 789 676</li>
           <li><i class="fa fa-map-marker"></i><a href="#">sales@dhaka.com</a></li>
         </ul><!--top-list end -->
       </div> 
-      <div class="cell large-6 medium-6">
+      <div class="cell large-6">
         <ul id="menu-topmenu" class="top-list-right">
           <li><a href="#" data-open="loginModel">Client Login</a></li>
           <li><a href="#">about us</a></li>
